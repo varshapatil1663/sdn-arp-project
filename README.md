@@ -92,9 +92,9 @@ Output
     No packet loss in ping
 
 Screenshots
-![ping](screenshots/ping.png)
-![arp](screenshots/arp.png)
-![logs](screenshots/logs.png)
+![logs](screenshots/Screenshot from 2026-04-19 11-04-02.png)
+![ping](screenshots/Screenshot from 2026-04-19 11-04-15.png)
+![arp](screenshots/Screenshot from 2026-04-19 11-04-29.png)
 
 Conclusion
 
