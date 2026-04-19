@@ -93,13 +93,9 @@ Output
 
 Screenshots
 
-(Add your screenshots here)
+![Uploading image.png…]()
 
-    Ping result
 
-    ARP tables
-
-    Controller logs
 
 Conclusion
 
