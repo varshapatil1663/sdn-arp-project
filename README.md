@@ -93,13 +93,13 @@ Output
 
 Screenshots
 
-Controller Logs:
+Logs:
 ![logs](screenshots/Screenshot%20from%202026-04-19%2011-04-02.png)
 
 Ping Result:
 ![ping](screenshots/Screenshot%20from%202026-04-19%2011-04-15.png)
 
-ARP table:
+ARP:
 ![arp](screenshots/Screenshot%20from%202026-04-19%2011-04-29.png)
 
 Conclusion
