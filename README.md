@@ -92,9 +92,15 @@ Output
     No packet loss in ping
 
 Screenshots
-![logs](screenshots/Screenshot from 2026-04-19 11-04-02.png)
-![ping](screenshots/Screenshot from 2026-04-19 11-04-15.png)
-![arp](screenshots/Screenshot from 2026-04-19 11-04-29.png)
+
+Controller Logs:
+![logs](screenshots/Screenshot%20from%202026-04-19%2011-04-02.png)
+
+Ping Result:
+![ping](screenshots/Screenshot%20from%202026-04-19%2011-04-15.png)
+
+ARP table:
+![arp](screenshots/Screenshot%20from%202026-04-19%2011-04-29.png)
 
 Conclusion
 
